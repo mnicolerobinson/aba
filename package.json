@@ -1,0 +1,12 @@
+{
+  "name": "aba-clairen-haus",
+  "version": "1.0.0",
+  "description": "ABA Practice Automation — Clairen Haus",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
